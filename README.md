@@ -15,6 +15,7 @@
 
 ***- Customers***
 
+*The details of the data are available [here](https://www.instacart.com/datasets/grocery-shopping-2017)*
 
 ## Tools
 *For this project the following python libraries were used:*
